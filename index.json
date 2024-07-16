@@ -1,0 +1,41 @@
+{
+  "warningText": "⚡阿悦共享多仓⚡",
+  "urls": [
+    {
+      "url": "clan://localhost/ay/ayue.json",
+      "name": "⚡️阿悦共享⚡"
+    },    
+    {
+      "url": "http://www.饭太硬.com/tv",
+      "name": "⚡️饭太硬在线⚡"
+    },
+    {
+      "url": "http://肥猫.com/",
+      "name": "⚡️肥猫在线⚡️"
+    },
+    {
+      "url": "http://ok321.top/tv",
+      "name": "⚡OK在线⚡"
+    },
+    {
+      "url": "https://cloud.lxweb.cn/f/GLeZUg/XC.json",
+      "name": "⚡️南风在线⚡️"
+    },
+    {
+      "url": "http://tvbox.王二小放牛娃.xyz",
+      "name": "⚡放牛娃在线⚡️"
+    },
+    {
+      "url": "http://我不是.摸鱼儿.top",
+      "name": "⚡️摸鱼在线⚡️"
+    },
+    {
+      "url": "https://cloud.lxweb.cn/f/oDGbtY/tvbox.json",
+      "name": "⚡️巧技在线⚡️"
+    },
+    {
+      "url": "http://dp.sxtv.top:88/img",
+      "name": "⚡️神仙在线⚡️"
+    }
+  ]
+}
