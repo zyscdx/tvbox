@@ -1,13 +1,13 @@
 {
-"壁纸":" https://牛逼。王二小放牛娃。xyz/img.php "，“https://牛逼。王二小放牛娃. xyz/img.php”，
-    "主页":“https://github。com/hjdhnx/hipy-server”，
-    "标志":" https://fs-im-福柯。7沼地1。com/ly/4d 2 C3 f 00-7d4c-11e 5-af15-41板英尺(板脚)63自动曝光装置四电子艺界游戏公司0/1716818643045/wexfnw .gif”，
-    “蜘蛛”:"./Tong.jar ",
+    “壁纸”: " https://牛逼。王二小放牛娃。xyz/img.php ",
+    "主页": " https://github . com/hjdhnx/hipy-server ",
+    "标志": " https://fs-im-kefu . 7 moor-fs1 . com/ly/4d 2c 3f 00-7d4c-11e 5-af15-41bf 63 AE 4ea 0/1716818643045/wexfnw . gif ",
+    “蜘蛛”:"./jar/Tong.jar ",
     "网站": [
         {
           "钥匙": " 360zy ",
-          "名称": "💮💮阿悦自用💮💮",             "类型": 1,
-          " api ":" https://360zy .com/API .PHP/provide/VOD？”,
+          "名称": "💮💮阿悦自用💮💮",             "type": 1,
+          " api ": “https://360 zy . com/API . PHP/provide/VOD？”,
           "可搜索": 1,
           “多变”: 1,
           "类别": ["动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","古装片","悬疑片","犯罪片","灾难片","国产剧","香港剧","韩国剧","欧美剧","台湾剧","日本剧","海外剧","泰国剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","国产动漫","欧美动漫","日韩动漫","现代都市","脑洞悬疑","年代穿越","古装仙侠","女频恋爱","成长逆袭","反转爽剧"
@@ -17,36 +17,228 @@
 			"钥匙": "采集之王",
 			"名称": "🐲采王┃采集",
 			"类型": 3,
-"蜜蜂": "。/drpy_libs/drpy2。min.js，
+			" api ": "./drpy_libs/drpy2.min.js ",
 			"可搜索": 1,
 			"快速搜索": 1,
 			"可过滤": 1,
 			"订单编号": 0,
-"分机": "。/drpy _ js/knig Sammeln[合理事会JS？type=url&params= ./json /Sammeln statischJSON$1 " "分机": "./drpy_js/采集之王[合].js？type=url&params= ./json/采集静态json$1 "1""分机": "./drpy_js/采集之王[合]。js？type=url&params=。/json/采集静态json$1 "
+			"分机": "./drpy_js/采集之王[合].js？type=url&params=。/json/采集静态。json$1 "
 		},       
         {
-            "钥匙": "豆瓣",
-            "名称": "豆瓣推荐",
-            "类型": 3,
-            " api ": " csp _豆瓣",
-            "可搜索": 0,
-            “多变”: 1,
-            "分机": "./libs/douban.json
+            "key": "豆瓣",
+            "name": "豆瓣推荐",
+            "type": 3,
+            "api": "csp_Douban",
+            "searchable": 0,
+            "changeable": 1,
+            "ext": "./libs/douban.json"
         },    
         {
-            "钥匙": "阿里夸克配置",
-            "名称": "配置中心",
-            "类型": 3,
-            " api ": " csp _设置",
-            "可搜索": 0,
-            “多变”: 0
+            "key": "阿里夸克配置",
+            "name": "配置中心",
+            "type": 3,
+            "api": "csp_Settings",
+            "searchable": 0,
+            "changeable": 0
         },
         {
-          "钥匙":"直播",
-          "名称":"阿悦直播",
-          "类型":3,
-          " api ":"./lib/zbzdb.js ",
-          "可搜索":1,
+          "key":"直播",
+          "name":"阿悦直播",
+          "type":3,
+          "api":"./lib/zbzdb.js",
+          "searchable":1,
+          "quickSearch":0,
+          "filterable":0,
+          "ext":"./lib/achaolive.json",
+          "jar":"./lib/fan.txt"
+        },           
+        {
+            "key": "搜神记",
+            "name": "白虎",
+            "type": 3,
+            "api": "csp_YQK",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "ext": {
+                "url": "https://txapi1.dbdd1.com"
+            }
+        },
+        {
+            "key": "阿悦3号",
+            "name": "朱雀",
+            "type": 3,
+            "playerType": "1",
+            "api": "csp_NanG",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1
+        },
+        {
+            "key": "周易",
+            "name": "玄武",
+            "type": 3,
+            "api": "csp_Kkys",
+            "timeout": 15,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "jar": "https://ysc.kaiserzcx.cn/niaoshu/a.jar"
+        },
+    {
+      "key": "南瓜",
+      "name": "🎃南瓜┃多线",
+      "type": 3,
+      "api": "csp_NanGua",
+      "jar": "./lib/fty.jar",
+      "timeout": 15,
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "比特",
+      "name": "👀比特┃超清┃快播",
+      "type": 3,
+      "api": "csp_Bttwoo",
+      "jar": "./lib/fanou.txt",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "金牌影视",
+      "name": "👻金牌┃超清┃秒播",
+      "type": 3,
+      "api": "csp_Jpys",
+      "jar": "./lib/fanou.txt",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "东辰",
+      "name": "东辰🐸扫码4K",
+      "type": 3,
+      "api": "csp_Wextudou",
+      "jar": "./lib/dongchen0708.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "猫偶哥哥",
+      "name": "猫偶🐱弹幕4K",
+      "type": 3,
+      "api": "csp_Wogg",
+      "jar": "./lib/dongchenok.jar",
+      "searchable": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "ext": {
+        "token": "file://TV/ali_token.txt",
+        "cookie": "file://TV/quark_cookie.txt",
+        "site": "https://www.wogg.net",
+        "danmu": true
+      },
+      "timeout": 25
+    },
+    {
+      "key": "天天影视",
+      "name": "🎯天天┃直连",
+      "type": 3,
+      "api": "csp_TTian",
+      "jar": "./lib/spider.jar",
+      "ext": "http://op.ysdqjs.cn"
+    },
+    {
+      "key": "玩偶",
+      "name": "阿里夸克玩偶",
+      "type": 3,
+      "api": "csp_WoGG",
+      "jar": "./lib/fty.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": {
+        "Cloud-drive": "tvfan/Cloud-drive.txt",
+        "from": "4k|auto",
+        "siteUrl": "https://www.wogg.net/",
+        《母丹》: "弹"
+      }
+    },        
+        {
+            "钥匙": " csp_XYQHikerAL_玩偶哥哥",
+            "名称": "玩偶🍺臻享4k”，
+            "类型": 3,
+            " api ": " csp_XYQHikerAL ",
+            “罐子”: "./lib/dokiss.jar ",
+            "可搜索": 1,
+            "快速搜索": 1,
+            "可过滤": 1,
+            "分机": "./lib/woggzx.json "
+        },        
+        {
+            "钥匙": "阿里合集",
+            "名称": "云盘🧓臻享4K”,
+            "类型": 3,
+            " api ": " csp_AliShare ",
+            “罐子”: "./lib/dongchenok.jar ",
+            "可搜索": 1,
+            “多变”: 0,
+            "可过滤": 0,
+            "索引": 0,
+  {
+    "wallpaper": "https://牛逼.王二小放牛娃.xyz/img.php",
+    "homepage": "https://github.com/hjdhnx/hipy-server",
+    "logo": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1716818643045/wexfnw.gif",
+    "spider":"./jar/Tong.jar",
+    "sites": [
+        {
+          "key": "360zy",
+          "name": "💮💮阿悦自用💮💮",             "type": 1,
+          "api": "https://360zy.com/api.php/provide/vod?",
+          "searchable": 1,
+          "changeable": 1,
+          "categories": ["动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","古装片","悬疑片","犯罪片","灾难片","国产剧","香港剧","韩国剧","欧美剧","台湾剧","日本剧","海外剧","泰国剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","国产动漫","欧美动漫","日韩动漫","现代都市","脑洞悬疑","年代穿越","古装仙侠","女频恋爱","成长逆袭","反转爽剧"
+           ]
+        }, 
+        {
+			"key": "采集之王",
+			"name": "🐲采王┃采集",
+			"type": 3,
+			"api": "./drpy_libs/drpy2.min.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 0,
+			"ext": "./drpy_js/采集之王[合].js?type=url&params=./json/采集静态.json$1"
+		},       
+        {
+            "key": "豆瓣",
+            "name": "豆瓣推荐",
+            "type": 3,
+            "api": "csp_Douban",
+            "searchable": 0,
+            "changeable": 1,
+            "ext": "./libs/douban.json"
+        },    
+        {
+            "key": "阿里夸克配置",
+            "name": "配置中心",
+            "type": 3,
+            "api": "csp_Settings",
+            "searchable": 0,
+            "changeable": 0
+        },
+        {
+          "key":"直播",
+          "name":"阿悦直播",
+          "type":3,
+          "api":"./lib/zbzdb.js",
+          "searchable":1,
           "quickSearch":0,
           "filterable":0,
           "ext":"./lib/achaolive.json",
@@ -230,7 +422,7 @@
            "searchable": 1,
            "quickSearch": 1
         },
-        {"key":"两个BT","name":"🥮BT2┃秒播","type":3,"playerType":2,"api":"csp_Bttwoo","jar":"https://gitlab.com/dokiss1/tvbox/-/raw/master/jar/fan0430.txt","searchable":1,"quickSearch":1},
+        {"key":"两个BT","name":"🥮BT2┃秒播","type":3,"playerType":2,"api":"csp_Bttwoo","jar":"https://gitlab.com/dokiss1/tvbox/-/raw/master/jar/fan0430.txt","searchable":1,"快速搜索":1},
         {
             "key": "Ikanbot",
             "name": "🎯机器┃直连",
@@ -466,7 +658,7 @@
       "hosts": [
         "huoshan.com"
       ],
-      "regex": [
+      "正则表达式": [
         "item_id="
       ]
     },
@@ -480,29 +672,29 @@
       ]
     },
     {
-      "name": "農民嗅探",
-      "hosts": [
-        "toutiaovod.com"
+      "名称": "農民嗅探",
+      "主机": [
+        "今日头条"
       ],
-      "regex": [
-        "video/tos/cn"
+      "正则表达式": [
+        "视频/tos/cn "
       ]
     },
     {
-      "name": "新视觉嗅探",
-      "hosts": [
-        "muzhi-video.bj.bcebos.com"
+      "名称": "新视觉嗅探",
+      "主机": [
+        "牧之-video.bj.bcebos.com "
       ],
-      "regex": [
+      "正则表达式": [
         "202403/"
       ]
     },
     {
-      "name": "七新嗅探",
-      "hosts": [
-        "api.52wyb.com"
+      "名称": "七新嗅探",
+      "主机": [
+        " API . 52 web . com "
       ],
-      "regex": [
+      "正则表达式": [
         "m3u8?pt=m3u8"
       ]
     },
@@ -537,70 +729,70 @@
       "playerType": 1,
       "ua": "okhttp/3.15",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
+      "标志": "https://epg.112114.xyz/logo/{name}。巴布亚新几内亚"
     },
     {
       "name": "IPv6002",
-      "type": 0,
-      "url": "./lib/tv.txt",
-      "playerType": 1,
-      "ua": "okhttp/3.15",
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
+      "类型": 0,
+      "网址": "./lib/tv.txt ",
+      "播放器类型": 1,
+“ua”:" okhttp/3.15 ",
+      "电子节目指南": "http://epg.112114.xyz/？ch={name}&date={date} ",
+      "标志":https://EPG .112114。XYZ/标志/{名字} .巴布亚新几内亚"
     },
     {
-      "name": "综合1",
-      "type": 0,
-      "url": "./lib/live1.txt",
-      "playerType": 1,
-      "ua": "okhttp/3.15",
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
+      "名称": "综合1",
+      "类型": 0,
+      "网址": "./lib/live1.txt ",
+      "播放器类型": 1,
+      “ua”: " okhttp/3.15 ",
+      "电子节目指南": "http://epg.112114.xyz/？ch={name}&date={date} ",
+      "标志": https://EPG . 112114 . XYZ/logo/{ name } .巴布亚新几内亚"
     },
     {
-      "name": "综合2",
-      "type": 0,
-      "url": "./lib/live2.txt",
-      "playerType": 1,
-      "ua": "okhttp/3.15",
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
+      "名称": "综合2",
+      "类型": 0,
+      "网址": "./lib/live2.txt ",
+      "播放器类型": 1,
+      “ua”: " okhttp/3.15 ",
+      "电子节目指南": "http://epg.112114.xyz/？ch={name}&date={date} ",
+      "标志": https://EPG . 112114 . XYZ/logo/{ name } .巴布亚新几内亚"
     },
     {
-      "name": "综合3",
-      "type": 0,
-      "url": "./lib/wexiptv.txt",
-      "playerType": 1,
-      "ua": "okhttp/3.15",
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
+      "名称": "综合3",
+      "类型": 0,
+      "网址": "./lib/wexiptv.txt ",
+      "播放器类型": 1,
+      “ua”: " okhttp/3.15 ",
+      "电子节目指南": "http://epg.112114.xyz/？ch={name}&date={date} ",
+      "标志": https://EPG . 112114 . XYZ/logo/{ name } .巴布亚新几内亚"
     },
     {
-      "name": "综合4",
-      "type": 0,
-      "url": "./lib/live3.txt",
-      "playerType": 1,
-      "ua": "okhttp/3.15",
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
+      “姓名”: "综合4",
+      “类型”: 0,
+"网址":"/lib/live3。txt”，
+“播放器类型”:1,
+“UA”: "okhttp/3.15”,
+“EPG”:“http://EPG。112114。xyz？ch={名字}&日期={日期}”,
+“LOGO”:“https://EPG。112114。XYZ/徽标/{名字}。巴布亚新几内亚"
     },
     {
-      "name": "IPV4",
-      "type": 0,
-      "url": "./lib/wexlive.txt",
-      "playerType": 1,
-      "ua": "okhttp/3.15",
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
+"姓名":" IPv4”,
+      “类型”: 0,
+"网址":"/lib/wexlive.txt”，
+“播放器类型”:1,
+“UA”: "okhttp/3.15”,
+“EPG”:“http://EPG。112114。xyz？ch={名字}&日期={日期}”,
+“LOGO”:“https://EPG。112114。XYZ/徽标/{名字}。巴布亚新几内亚"
     },
     {
-      "name": "IPV6",
-      "type": 0,
-      "url": "./lib/ipv6.m3u",
-      "playerType": 1,
-      "ua": "okhttp/3.15",
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
+"姓名":" IPv6”,
+      “类型”: 0,
+"网址":"/lib/ipv6。m3u”，
+      “PlayerType”: 1,
+“UA”:"okhttp/3.15”,
+《EPG》:http://EPG .112114。xyz？ch={名字}&日期={日期}”,
+“LOGO”:“https://EPG .112114。XYZ/徽标/{名字}。巴布亚新几内亚"
     }
   ]
-}
+	}
