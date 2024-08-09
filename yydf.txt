@@ -1,0 +1,41 @@
+{
+    "warningText": "关注公众号:打发，分享者随时更新。",
+    "urls": [
+        {
+            "name": "👨｜业余在线｜👨",
+            "url": "https://yydf.540734621.xyz/QQ/yydf2024.json"
+        },
+        {
+            "name": "🔮｜道长在线🔮",
+            "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/yuanwangokk-1/TV-BOX/main/drpy_dzlive/index.json"
+        },
+        {
+            "name": "🔥｜开心在线🔥",
+            "url": "http://kxrj.site:55/天天开心"
+        },
+        {
+            "name": "🧞‍｜PG在线🧞‍",
+            "url": "https://git.acwing.com/iduoduo/orange/-/raw/main/jsm.json"
+        },
+        {
+            "name": "🐃‍｜二小在线🐃‍",
+            "url": "http://tvbox.xn--4kq62z5rby2qupq9ub.top/"
+        },
+        {
+            "name": "👶‍｜OK在线👶‍",
+            "url": "http://ok321.top/ok"
+        },
+        {
+            "name": "🍚｜饭总在线🍚",
+            "url": "http://www.饭太硬.com/tv"
+        },
+        {
+            "name": "🌹｜香神在线🌹",
+            "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json"
+        },
+        {
+            "name": "🤕‍｜短剧在线🤕‍",
+            "url": "http://74.120.175.78/JK/XYQTVBox/dj.json"
+        }
+    ]
+}

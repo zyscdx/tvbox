@@ -1,0 +1,212 @@
+{
+  "sites": [
+    {
+      "key": "森林",
+      "name": "森林资源|AV",
+      "type": 1,
+      "api": "https://slapibf.com/api.php/provide/vod/",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "探探",
+      "name": "探探资源|AV",
+      "type": 1,
+      "api": "https://apittzy.com/api.php/provide/vod/",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "奥斯卡",
+      "name": "奥斯卡资源|AV",
+      "type": 1,
+      "api": "https://aosikazy.com/api.php/provide/vod/",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "老鸭",
+      "name": "老鸭资源|AV",
+      "type": 1,
+      "api": "https://api.apilyzy.com/api.php/provide/vod/",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "皇冠",
+      "name": "皇冠|AV",
+      "type": 1,
+      "api": "https://hghhh.com/api.php/provide/vod/",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "91",
+      "name": "91麻豆|AV",
+      "type": 1,
+      "api": "https://91md.me/api.php/provide/vod/",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "易看",
+      "name": "易看资源|AV",
+      "type": 1,
+      "api": "https://api.yikanapi.com/api.php/provide/vod/",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "皇冠资源",
+      "name": "皇冠资源|AV",
+      "type": 1,
+      "api": "https://hghhh.com/api.php/provide/vod/",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "91md",
+      "name": "91md|AV",
+      "type": 1,
+      "api": "https://91md.me/api.php/provide/vod/from/mdm3u8/",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "番号",
+      "name": "番号资源|AV",
+      "type": 1,
+      "api": "http://fhapi9.com/api.php/provide/vod/",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "鲨鱼",
+      "name": "鲨鱼资源|AV",
+      "type": 1,
+      "api": "https://shayuapi.com/api.php/provide/vod/",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "kk",
+      "name": "KK写真资源|AV",
+      "type": 1,
+      "api": "https://kkzy.me/api.php/provide/vod/",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "alvin",
+      "name": "AIvin|AV",
+      "type": 1,
+      "api": "http://lbapiby.com/api.php/provide/vod/at/json",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "好色",
+      "name": "好色资源|AV",
+      "type": 1,
+      "api": "https://haosezyw.com/api.php/provide/vod/",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "最色",
+      "name": "最色资源|AV",
+      "type": 1,
+      "api": "https://zszyw.top/api.php/provide/vod/",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "色色",
+      "name": "色色虎资源|AV",
+      "type": 1,
+      "api": "https://apisesehuzy.com/api.php/provide/vod/",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "黄瓜",
+      "name": "黄瓜资源|AV",
+      "type": 1,
+      "api": "https://www.zy018.com/api.php/provide/vod/",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "玉兔",
+      "name": "玉兔资源|AV",
+      "type": 1,
+      "api": "https://apiyutu.com/api.php/provide/vod/",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "麻豆",
+      "name": "麻豆视频|AV",
+      "type": 1,
+      "api": "http://www.madouse.la/api.php/provide/vod/",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "辣椒",
+      "name": "辣椒资源|AV",
+      "type": 1,
+      "api": "https://apilj.com/api.php/provide/vod/",
+      "searchable": 1,
+      "changeable": 1
+    },    
+    {
+      "key": "奶香香",
+      "name": "奶香香|AV",
+      "type": 1,
+      "api": "https://Naixxzy.com/api.php/provide/vod/",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "精品",
+      "name": "精品资源|AV",
+      "type": 1,
+      "api": "https://www.jingpinx.com/api.php/provide/vod/",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "甜蜜资源",
+      "name": "甜蜜资源|AV",
+      "type": 1,
+      "api": "https://timizy10.cc/api.php/provide/vod/",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "草榴",
+      "name": "草榴资源|AV",
+      "type": 1,
+      "api": "https://www.caoliuzyw.com/api.php/prodao/vod/",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "老色逼",
+      "name": "老色逼资源|AV",
+      "type": 1,
+      "api": "https://apilsbzy1.com/api.php/provide/vod/",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "missav",
+      "name": "MISSAV",
+      "type": 3,
+      "api": "csp_Missav",
+      "searchable": 1,
+      "changeable": 1
+    }
+  ]
+}
