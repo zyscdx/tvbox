@@ -1,0 +1,34 @@
+{"vodPic": "https://v2.api-m.com/api/meinvpic?return=302",
+  "drives": [    
+    {
+      "name": "🤱小雅",
+      "search": true,
+      "searchable": true,
+      "server": "http://alist.xiaoya.pro"
+    },
+    {
+      "name": "🐳星梦",
+      "search": true,
+      "searchable": true,
+      "server": "https://pan.bashroot.top"
+    },
+    {
+      "name": "♻️七米藍",
+      "search": true,
+      "searchable": true, 
+      "server": "https://al.chirmyram.com/"
+    }, 
+    {
+      "name": "⚖托盘",
+      "search": true,
+      "searchable": true,
+      "server": "https://pan.mediy.cn/"
+    },
+    {
+      "name": "MM",
+      "search": true,
+      "searchable": true,
+      "server": "https://mmpan.net"
+    }
+  ]
+}

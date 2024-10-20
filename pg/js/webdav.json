@@ -1,0 +1,22 @@
+{
+  "drives": [
+    /*{
+      "name": "七米藍",
+      "server": "https://al.chirmyram.com/dav",
+      "user": "alist",
+      "pass": "alist"
+    },
+    {
+      "name": "凯速",
+      "server": "https://webdav.kstore.space",
+      "user": "7092",
+      "pass": "7092-2d48e08e622b42049cebb13486a5a049"
+    },*/
+    {
+      "name": "坚果云",
+      "server": "https://dav.jianguoyun.com/dav/",
+      "user": "2444507637@qq.com",
+      "pass": "a45w6hrm5fnxa4xb"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "drives":[
+  {
+    "name" : "🤱小雅1",
+	"server" : "http://60.205.200.121:5344/"
+  },
+  {
+    "name" : "🎆小雅2",
+    "server" : "http://61.134.67.189:5678/",
+    "startPage" : "/",
+    "showAll" : false,
+    "search" : true
+  },
+  {
+      "name": "🦐小雅3",
+      "search": true,
+      "searchable": true,
+      "server": "http://alist.xiaoya.pro"
+  },
+  {
+    "name" : "💢ECVE网盘",
+    "server" : "https://pan.ecve.cn",
+    "startPage" : "/",
+    "showAll" : false,
+    "search" : true
+  },
+  {
+    "name" : "🐳星梦",
+    "server" : "https://pan.bashroot.top",
+    "startPage" : "/",
+    "showAll" : false,
+    "search" : true
+  },
+  {
+    "name" : "🐜蚂蚁",
+    "server" : "https://pan.mediy.cn",
+    "startPage" : "/",
+    "showAll" : false,
+    "search" : true
+  },
+  {
+	"name" : "🔋挺好",
+	"server" : "https://pan.ztha.top",
+	"startPage" : "/",
+    "showAll" : false,
+    "search" : true
+  },
+  {
+    "name" : "♻️七米藍", 
+    "server" : "https://al.chirmyram.com/",
+    "startPage" : "/",
+    "showAll" : false,
+    "search" : true
+  }, 
+  {
+    "name" : "⚖托盘",
+    "server" : "https://pan.mediy.cn/",
+    "startPage" : "/",
+    "showAll" : false,
+    "search" : true
+  },
+  {
+    "name" : "💰神族九帝",
+    "server" : "https://alist.shenzjd.com",
+    "startPage" : "/",
+    "showAll" : false,
+    "search" : true
+  }
+]}
